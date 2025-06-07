@@ -5,7 +5,6 @@ import {
   addToWishlist,
   removeFromWishlist,
   getUserListings,
-  proposeTrade
 } from "../utils/api";
 import TradeModal from "../components/TradeModal";
 
