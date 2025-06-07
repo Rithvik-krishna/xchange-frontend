@@ -14,8 +14,6 @@ import EditListing from "./pages/EditListing";
 import MyListings from "./pages/MyListings";
 
 const App = () => {
-  const { token } = useContext(AuthContext);
-
   return (
     <Router>
       <Navbar />
